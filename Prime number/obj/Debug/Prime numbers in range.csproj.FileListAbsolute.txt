@@ -1,0 +1,8 @@
+C:\Users\Musad\OneDrive\Desktop\college\Tasks\Discrete Math tasks\Prime numbers\Prime numbers in range\Prime numbers in range\bin\Debug\Prime numbers in range.exe.config
+C:\Users\Musad\OneDrive\Desktop\college\Tasks\Discrete Math tasks\Prime numbers\Prime numbers in range\Prime numbers in range\bin\Debug\Prime numbers in range.exe
+C:\Users\Musad\OneDrive\Desktop\college\Tasks\Discrete Math tasks\Prime numbers\Prime numbers in range\Prime numbers in range\bin\Debug\Prime numbers in range.pdb
+C:\Users\Musad\OneDrive\Desktop\college\Tasks\Discrete Math tasks\Prime numbers\Prime numbers in range\Prime numbers in range\obj\Debug\Prime numbers in range.csproj.AssemblyReference.cache
+C:\Users\Musad\OneDrive\Desktop\college\Tasks\Discrete Math tasks\Prime numbers\Prime numbers in range\Prime numbers in range\obj\Debug\Prime numbers in range.csproj.SuggestedBindingRedirects.cache
+C:\Users\Musad\OneDrive\Desktop\college\Tasks\Discrete Math tasks\Prime numbers\Prime numbers in range\Prime numbers in range\obj\Debug\Prime numbers in range.csproj.CoreCompileInputs.cache
+C:\Users\Musad\OneDrive\Desktop\college\Tasks\Discrete Math tasks\Prime numbers\Prime numbers in range\Prime numbers in range\obj\Debug\Prime numbers in range.exe
+C:\Users\Musad\OneDrive\Desktop\college\Tasks\Discrete Math tasks\Prime numbers\Prime numbers in range\Prime numbers in range\obj\Debug\Prime numbers in range.pdb
