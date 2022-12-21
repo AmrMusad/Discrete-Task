@@ -1,57 +1,43 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.ConstrainedExecution;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Prime_numbers_in_range
+namespace Perfect_number_in_range
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-
-            int usern1, usern2, eqan1, eqan2, flag;
-            Console.WriteLine("Enter the first number : " );
+            int usern1, usern2, eqaun1, eqaun2,sum;
+            Console.WriteLine("Enter the first number : ");
             usern1 = int.Parse(Console.ReadLine());
-            
             Console.WriteLine("Enter the second number : ");
-            
-            usern2 =int.Parse(Console.ReadLine());
-            Console.WriteLine("The prime numbers in range :");
+            usern2 = int.Parse(Console.ReadLine());
+            Console.WriteLine("The perfect numbers in range : ");
 
-            for (eqan1 = usern1; eqan1 <= usern2; eqan1++)
+            for (eqaun1 = usern1; eqaun1 <= usern2; eqaun1++)
             {
-                flag = 0;
 
-                for (eqan2 = 2; eqan2 <= eqan1 / 2; eqan2++)
+                eqaun2 = 1;
+                sum=0;
+
+                while (eqaun2 < eqaun1)
                 {
-
-
-                    if (eqan1 % eqan2 == 0)
+                    if (eqaun1 % eqaun1 == 0)
                     {
-                        flag++;
-                        break;
+                        sum = sum + eqaun2;
+                        eqaun2++;
+
+                    }
+                    if (sum == eqaun1)
+                    {
+                        Console.WriteLine(eqaun1);
                     }
                 }
-
-            if((flag==0)&& (eqan1 !=1))
-                {
-                    Console.WriteLine(eqan1);
-                }
-                
-
-
-
-
-
-
-
-
-
-
             }
+           
           
         }
     }
